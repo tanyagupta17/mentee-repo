@@ -8,4 +8,4 @@
 ## Resources
 
 - [Download Git for Windows](https://git-scm.com/download/win)
-- [Webinar on Git and Github]()
+- [Webinar on Git and Github](https://www.facebook.com/codechefvit/videos/1011390399066124/)
