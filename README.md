@@ -9,3 +9,11 @@
 
 - [Download Git for Windows](https://git-scm.com/download/win)
 - [Webinar on Git and Github](https://www.facebook.com/codechefvit/videos/1011390399066124/)
+
+## Important commands
+
+- git clone repo_link
+- git add .
+- git commit -m"message"
+- git push origin master
+
